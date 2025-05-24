@@ -22,6 +22,7 @@ cd roaster-management
 npm install
 npm start
 ```
+
 Then open http://localhost:3000 in your browser.
 
 ## Development Notes
@@ -31,7 +32,7 @@ Then open http://localhost:3000 in your browser.
 - **No Icons Used**: Did not integrate third-party icon libraries like Lucide, focusing instead on functionality.
 - **Tooltips for Clarity**: Tooltips are added to differentiate providers with overlapping slots.
 - **Not Mobile Responsive**: The UI is optimized for desktop only due to time constraints.
-- **Randomized Availability**: Provider availabilities are randomly assigned across dates till May 30th for demonstration.
+- **Randomized Availability**: Provider availabilities are randomly assigned across dates from May 23 to May 30, 2025.
 
 ## Tech Stack
 
